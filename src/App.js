@@ -66,8 +66,7 @@ function App() {
       className="App"
       style={{
         backgroundColor: theme === "light" ? "white" : "black",
-      }}
-    >
+      }}    >
       <Header />
       <Page />
     </div>
